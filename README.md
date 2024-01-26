@@ -16,10 +16,7 @@
 ###
 
 <div align="center">
-  <p align="center">
-    Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MisterOffi/count.svg" />
-  </p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MisterOffi.MisterOffi&"  />
 </div>
 
 ###
