@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MisterOffi.MisterOffi&"  />
+  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
 </div>
 
 ###
